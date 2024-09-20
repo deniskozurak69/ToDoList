@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\denis\\Desktop\\My files\\C14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{588D4DCB-CFD5-48D1-B8D5-D9B9FFEF2EFC}|WebApplication1\\WebApplication1.csproj|c:\\users\\denis\\desktop\\my files\\c14\\webapplication1\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{588D4DCB-CFD5-48D1-B8D5-D9B9FFEF2EFC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588D4DCB-CFD5-48D1-B8D5-D9B9FFEF2EFC}|WebApplication1\\WebApplication1.csproj|c:\\users\\denis\\desktop\\my files\\c14\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{588D4DCB-CFD5-48D1-B8D5-D9B9FFEF2EFC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588D4DCB-CFD5-48D1-B8D5-D9B9FFEF2EFC}|WebApplication1\\WebApplication1.csproj|c:\\users\\denis\\desktop\\my files\\c14\\webapplication1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{588D4DCB-CFD5-48D1-B8D5-D9B9FFEF2EFC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588D4DCB-CFD5-48D1-B8D5-D9B9FFEF2EFC}|WebApplication1\\WebApplication1.csproj|c:\\users\\denis\\desktop\\my files\\c14\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{588D4DCB-CFD5-48D1-B8D5-D9B9FFEF2EFC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588D4DCB-CFD5-48D1-B8D5-D9B9FFEF2EFC}|WebApplication1\\WebApplication1.csproj|c:\\users\\denis\\desktop\\my files\\c14\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{588D4DCB-CFD5-48D1-B8D5-D9B9FFEF2EFC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588D4DCB-CFD5-48D1-B8D5-D9B9FFEF2EFC}|WebApplication1\\WebApplication1.csproj|c:\\users\\denis\\desktop\\my files\\c14\\webapplication1\\hubs\\todohub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588D4DCB-CFD5-48D1-B8D5-D9B9FFEF2EFC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\hubs\\todohub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588D4DCB-CFD5-48D1-B8D5-D9B9FFEF2EFC}|WebApplication1\\WebApplication1.csproj|c:\\users\\denis\\desktop\\my files\\c14\\webapplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap_slate.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{588D4DCB-CFD5-48D1-B8D5-D9B9FFEF2EFC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap_slate.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588D4DCB-CFD5-48D1-B8D5-D9B9FFEF2EFC}|WebApplication1\\WebApplication1.csproj|c:\\users\\denis\\desktop\\my files\\c14\\webapplication1\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{588D4DCB-CFD5-48D1-B8D5-D9B9FFEF2EFC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588D4DCB-CFD5-48D1-B8D5-D9B9FFEF2EFC}|WebApplication1\\WebApplication1.csproj|c:\\users\\denis\\desktop\\my files\\c14\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{588D4DCB-CFD5-48D1-B8D5-D9B9FFEF2EFC}|WebApplication1\\WebApplication1.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588D4DCB-CFD5-48D1-B8D5-D9B9FFEF2EFC}|WebApplication1\\WebApplication1.csproj|c:\\users\\denis\\desktop\\my files\\c14\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588D4DCB-CFD5-48D1-B8D5-D9B9FFEF2EFC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588D4DCB-CFD5-48D1-B8D5-D9B9FFEF2EFC}|WebApplication1\\WebApplication1.csproj|c:\\users\\denis\\desktop\\my files\\c14\\webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{588D4DCB-CFD5-48D1-B8D5-D9B9FFEF2EFC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\Users\\denis\\Desktop\\My files\\C14\\WebApplication1\\wwwroot\\js\\script.js",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\js\\script.js",
+              "ToolTip": "C:\\Users\\denis\\Desktop\\My files\\C14\\WebApplication1\\wwwroot\\js\\script.js",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\js\\script.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-15T06:58:00.405Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5da8d69b-058a-4294-a87a-f4f7ae2983b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\denis\\Desktop\\My files\\C14\\WebApplication1\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\denis\\Desktop\\My files\\C14\\WebApplication1\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-09T22:23:37.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\denis\\Desktop\\My files\\C14\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\denis\\Desktop\\My files\\C14\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-31T08:55:20.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\denis\\Desktop\\My files\\C14\\WebApplication1\\Dockerfile",
+              "RelativeDocumentMoniker": "WebApplication1\\Dockerfile",
+              "ToolTip": "C:\\Users\\denis\\Desktop\\My files\\C14\\WebApplication1\\Dockerfile",
+              "RelativeToolTip": "WebApplication1\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-31T08:55:10.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\denis\\Desktop\\My files\\C14\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\denis\\Desktop\\My files\\C14\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T22:40:09.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\denis\\Desktop\\My files\\C14\\WebApplication1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\denis\\Desktop\\My files\\C14\\WebApplication1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplication1\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-16T21:58:21.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\denis\\Desktop\\My files\\C14\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\denis\\Desktop\\My files\\C14\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-16T21:58:14.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ToDoHub.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\Desktop\\My files\\C14\\WebApplication1\\Hubs\\ToDoHub.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Hubs\\ToDoHub.cs",
+              "ToolTip": "C:\\Users\\denis\\Desktop\\My files\\C14\\WebApplication1\\Hubs\\ToDoHub.cs",
+              "RelativeToolTip": "WebApplication1\\Hubs\\ToDoHub.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAtwA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T21:35:21.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\denis\\Desktop\\My files\\C14\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\denis\\Desktop\\My files\\C14\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T06:54:44.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "bootstrap_slate.css",
+              "DocumentMoniker": "C:\\Users\\denis\\Desktop\\My files\\C14\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap_slate.css",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap_slate.css",
+              "ToolTip": "C:\\Users\\denis\\Desktop\\My files\\C14\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap_slate.css",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap_slate.css",
+              "ViewState": "AgIAACYBAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-09T22:20:38.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\Desktop\\My files\\C14\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\denis\\Desktop\\My files\\C14\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T21:32:06.628Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
